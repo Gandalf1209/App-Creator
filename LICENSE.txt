@@ -1,0 +1,50 @@
+*** TECH PANDA LICENSE AGREEMENT 1.0 ***
+** LAST MODIFIED: 3/26/14 **
+
+
+1. DEFINITIONS
+
+Creator - The original creator of the program and source code.
+
+Original Program - Original program created and compiled with original source code. This does NOT include modified source code/programs.
+
+Original Source Code - The original source code used when the program was compiled by the creator.
+
+User - Someone who downloads the source code or program. 
+
+Edited Source Code - Any source code that was edited by the user.
+
+Edited Program - A program compiled by the user with the edited source code within.
+
+
+2. USE OF SOURCE CODE
+
+a. The user has the right to download, edit original source code, compile new programs, and use for reference for another program they may be creating.
+
+b. The user can NOT directly copy the source code from the original program unless permitted to do so.
+
+c. The user can NOT share edited versions of the original code or the original program originally uploaded by the creator. This includes, but is not limited to: Publicly/Privately uploading, sending to single/multiple persons, uploading a video with the edited source code or edited program in it.
+
+
+3. COPYRIGHTS
+
+a. If the user compiles an edited program from the edited source code, they may NOT include a copyright of their own or another’s name or company.
+
+b. If the user compiles an edited program from the edited source code, they may NOT upload under their own, another’s name or company.
+
+
+4. LIABILITIES
+
+a. The creator is NOT liable for any damage of any kind caused by the user’s failure to follow instructions on correctly starting a program.
+
+b. The creator is NOT liable for any trouble the user gets into for uploading an edited program not made by the original creator.
+
+c. If the user does not read and accept this license, the creator is NOT liable for the user’s misuse of the original source and program, and has the right to revoke the use of original source code and original program.
+
+
+5. EXCEPTIONS
+
+a. The user MAY contact the creator with a request for permission to upload an edited program made by themselves. The creator is not required to allow the user’s permission to do so.
+
+b. If the creator approves of the upload of an edited program compiled by the user,  the creator may require certain things to be added as to let others know the game was uploaded under this license.
+
